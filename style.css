@@ -47,7 +47,7 @@ font-family: 'Clicker Script', cursive;
 font-family: 'Elsie Swash Caps', cursive;
 }
 /* Pseudo Selector- for ex, style all the links doing a particular thing in their different states*/
-#details a:link, #detauls a:visited {
+#details a:link, #details a:visited {
   color: black;
   text-decoration: none; 
 }
